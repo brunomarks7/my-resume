@@ -15,7 +15,7 @@
         class="lead mb-5"
       >
       Sou desenvolvedor Front-End, FullStack. 
-      Atualmente tenho trabalhado com VueJS, PHP, WordPress, WooCommerce e GraphQL. Entrego código de qualidade, com um criterioso QA.
+      Atualmente tenho trabalhado com VueJS, NodeJS, PHP, WordPress, WooCommerce e GraphQL. Entrego código de qualidade, com um criterioso QA.
       </p>
       <p class="lead mb-5">
         Atuo como consultor para uma PropTech do ramo imobiliário chamada <a href="https://github.com/LokeCarlsson/gridsome-starter-resume"
