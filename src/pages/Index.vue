@@ -9,8 +9,6 @@
       <hr class="m-0">
       <Skills/>
       <hr class="m-0">
-      <Interests/>
-      <hr class="m-0">
       <Awards/>
     </div>
   </Layout>
@@ -21,7 +19,6 @@ import About from "../components/About";
 import Experience from "../components/Experience";
 import Education from "../components/Education";
 import Skills from "../components/Skills";
-import Interests from "../components/Interests";
 import Awards from "../components/Awards";
 
 export default {
@@ -30,7 +27,6 @@ export default {
     Experience,
     Education,
     Skills,
-    Interests,
     Awards
   },
   metaInfo: {

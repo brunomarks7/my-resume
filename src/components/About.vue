@@ -20,10 +20,10 @@
       <p class="lead mb-5">
         Atuo como consultor para uma PropTech do ramo imobiliário chamada <a href="https://github.com/LokeCarlsson/gridsome-starter-resume"
           target="_blank"
-          rel="noopener noreferrer">Apê11</a>. Sou fundador do Bazar Indiano e realizo alguns projetos como <strong>freelancer</strong>.
+          rel="noopener noreferrer">Apê11</a>, além de atuar como <strong>Freelancer</strong> por diversos projetos. Sou também fundador do Bazar Indiano, onde atuo desde 2016.
       </p>
       <div class="social-icons">
-        <a href="https://linkedin.com/in/lokecarlsson" target="_blank" rel="noopener noreferrer">
+        <a href="https://www.linkedin.com/in/bruno-marques-2a2a88168/" target="_blank" rel="noopener noreferrer">
           <font-awesome :icon="['fab', 'linkedin']"/>
         </a>
         <a href="https://github.com/brunomarks7" target="_blank" rel="noopener noreferrer">
